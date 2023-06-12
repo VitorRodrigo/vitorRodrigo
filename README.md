@@ -21,9 +21,13 @@ src="https://github.com/microsoft/PowerBI-Icons/blob/a3ca9ab3f109ea86b3f48844c0a
   
   <div> 
   
-  <a href="https://www.instagram.com/vitorr07/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/vitorr07/" target="_blank">
+   <img  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" target="_blank"></a>
+    
+  
  	
-  <a href="https://www.linkedin.com/in/vitor-rodrigo-de-araujo-b61425157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vitor-rodrigo-de-araujo-b61425157/" target="_blank">
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" target="_blank"></a> 
   
   ![snake gif](https://github.com/VitorRodrigo/VitorRodrigo/blob/output/github-contribution-grid-snake.svg)
  
