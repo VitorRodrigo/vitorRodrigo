@@ -10,6 +10,8 @@ Oi eu sou o Vitor, trabalho com suporte a mais de 10 anos, e no momento estou ap
   <img align="center" alt="vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="vitor-CSS" height="30" width="40" 
+src="https://github.com/microsoft/PowerBI-Icons/blob/a3ca9ab3f109ea86b3f48844c0a8666073176af2/SVG/Power-BI.svg">
   
  
  
